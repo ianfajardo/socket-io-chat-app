@@ -17,6 +17,9 @@
     "ian",
     "fajardo"
   ],
+  "scripts": {
+    "start": "node index.js"
+  },
   "author": "ian-fajardo",
   "license": "MIT",
   "engines": {
