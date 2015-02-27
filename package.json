@@ -9,7 +9,8 @@
   "main": "index.js",
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "keywords": [
     "heroku",
@@ -17,12 +18,9 @@
     "ian",
     "fajardo"
   ],
-  "scripts": {
-    "start": "node index.js"
-  },
   "author": "ian-fajardo",
   "license": "MIT",
   "engines": {
     "node": "0.12.x"
-  },
+  }
 }
